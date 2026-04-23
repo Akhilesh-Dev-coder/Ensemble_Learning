@@ -2,6 +2,8 @@
 
 This project demonstrates the implementation of **Ensemble Learning Techniques** using the **Random Forest** algorithm to predict passenger survival on the Titanic. It includes a comprehensive theory document, a data analysis/modeling notebook, and a modern Streamlit front-end application.
 
+<img width="580" height="541" alt="Screenshot 2026-04-23 144937" src="https://github.com/user-attachments/assets/a265dad9-7683-4cfb-b27c-836f98c7ec91" />
+
 ## 🚀 Project Overview
 
 The goal of this project is to build a robust classification model that can predict whether a passenger would have survived the Titanic disaster based on features like age, sex, passenger class, and more.
